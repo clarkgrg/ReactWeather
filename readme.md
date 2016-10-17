@@ -3,6 +3,11 @@ React Weather Application
 GitHub commands
 
 - git status
+
+' Add new files
+- git add .
+
+' Commit existing files
 - git commit -am 'Comments'
 
 ' Push to git hub
